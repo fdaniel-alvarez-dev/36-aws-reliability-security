@@ -1,4 +1,4 @@
-# 36-life360-staff-devops-engineer
+# 36-data-governance-example
 
 A reference data platform blueprint with pragmatic governance: quality checks, lineage, access controls, and CI for data assets.
 
